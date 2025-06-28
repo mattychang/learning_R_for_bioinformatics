@@ -2,7 +2,7 @@
 
 This module introduces essential R packages for bioinformatics. Each submodule focuses on one major package.
 
-## 📦 Covered Packages
+## Covered Packages
 
 | Submodule                     | Package     | Focus                                |
 |------------------------------|-------------|--------------------------------------|
