@@ -1,4 +1,4 @@
-# learning_R
+# learning_R_for_bioinformatics
 
 Tutorial to learn R and navigate RStudio
 
