@@ -6,20 +6,10 @@
 # Creating vectors
 ##################################################
 
-# ---- Use c() to combine values ----
+# ---- Use c() to combine values, all values in a vector must be the same type ----
 nums <- c(1, 2, 3, 4, 5)
 chars <- c("apple", "banana", "cherry")
 logicals <- c(TRUE, FALSE, TRUE)
-
-# ---- All values must be the same type ----
-mixed <- c(1, "apple", TRUE)
-mixed         # all become character
-typeof(mixed)
-
-# ---- Sequences ----
-1:5
-seq(10, 20, by = 2)
-rep("hi", 3)
 
 ##################################################
 # Indexing and slicing
@@ -38,21 +28,6 @@ x
 
 # ---- Out of bounds ----
 x[10]     # returns NA
-
-##################################################
-# Named vectors
-##################################################
-
-scores <- c(95, 87, 78)
-names(scores) <- c("Alice", "Bob", "Chris")
-
-# ---- Access by name ----
-scores["Alice"]
-scores[c("Bob", "Chris")]
-
-# ---- Rename elements ----
-names(scores)[2] <- "Bobby"
-scores
 
 ##################################################
 # Vector operations
