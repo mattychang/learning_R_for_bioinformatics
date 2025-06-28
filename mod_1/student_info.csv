@@ -1,4 +1,4 @@
-name",age,is_student,city
+name,age,is_student,city
 Alice,23,TRUE,NY
 Bob,31,FALSE,LA
 Charlie,25,TRUE,Chicago
