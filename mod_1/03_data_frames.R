@@ -53,15 +53,3 @@ df[df$age > 25, ]
 df[df$is_student == TRUE, ]
 
 df
-
-##################################################
-# Importing and exporting
-##################################################
-
-# ---- Write data frame to CSV ----
-write.csv(df, "student_info.csv", row.names = FALSE)
-
-# ---- Read it back in ----
-df_new <- read.csv("student_info.csv")
-
-head(df_new)
