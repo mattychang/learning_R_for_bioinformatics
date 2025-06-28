@@ -1,6 +1,6 @@
 ##############################################
 # 01_r_basics.R
-# Comments, arithmetic, variables and assignment, data types, check tags, type conversion, built-in functions, environment management, logical operations
+# Comments, arithmetic, variables and assignment, data types, built-in mathematical functions, environment management, logical operations
 ##############################################
 
 # ---- Comments ----
