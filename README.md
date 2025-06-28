@@ -59,6 +59,6 @@ This is where code runs.
 R has thousands of add-on packages that extend its capabilities. To use a package, you must install it once and then load it every time you start a new session.
 
 <pre><code class="language-r">
-  install.packages("ggplot2") 
-  library(ggplot2) 
+install.packages("ggplot2")
+library(ggplot2)
 </code></pre>
