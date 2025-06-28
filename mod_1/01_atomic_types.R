@@ -21,7 +21,7 @@ x <- x + 3
 # Variable data types
 ##################################################
 
-# Numeric (default type for numbers)
+# Double (default type for numbers)
 a <- 3.14
 
 # Integer (less common)
