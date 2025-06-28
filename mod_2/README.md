@@ -11,7 +11,7 @@ This module introduces essential R packages for bioinformatics. Each submodule f
 | `03_ggplot2_basics.R`        | `ggplot2`   | Building plots layer-by-layer        |
 | `04_pheatmap_intro.R`        | `pheatmap`  | Creating clustered heatmaps (matrix input) |
 
-## Example Datasets Used
+## Included Data
 
 | Filename           | Description                                  |
 |--------------------|----------------------------------------------|
