@@ -60,21 +60,3 @@ colMeans(mat)
 
 # ---- Transpose ----
 t(mat)
-
-##################################################
-# Converting from data frame
-##################################################
-
-# Create a simple data frame
-df <- data.frame(
-  gene = c("Gene1", "Gene2", "Gene3"),
-  Sample1 = c(2.3, 4.1, 3.7),
-  Sample2 = c(1.8, 3.5, 2.9)
-)
-
-# ---- Convert to matrix (numeric only) ----
-mat <- as.matrix(df[ , -1])     # remove gene name column
-rownames(mat) <- df$gene
-
-print(mat)
-typeof(mat)     # "double"
