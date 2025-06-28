@@ -7,10 +7,10 @@
 
 # ---- Variable Assignment ----
 # Variables can be assigned using the <- or = symbols
-x <- 5            # int
+x <- 5
 y = 10
-name <- "R"        # string
-is_fun <- TRUE     # boolean
+name <- "R"
+is_fun <- TRUE
 
 # Print output
 print(x)
