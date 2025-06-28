@@ -62,3 +62,9 @@ R has thousands of add-on packages that extend its capabilities. To use a packag
   install.packages("ggplot2") 
   library(ggplot2) 
 </pre>
+
+### 6. Using R Projects for Organization
+
+RStudio lets you create R Projects, which are self-contained folders that make it easier to organize code, data, and output files. Each project remembers your working directory and session history.
+
+Before creating a new R script, create a new R Project in the directory of interest.
