@@ -31,17 +31,17 @@ b <- 7L
 c <- 2 + 4i
 
 ##################################################
-# Character strings and boolean values
+# Character strings and logical (boolean) values
 ##################################################
 
 # Character (text)
 name <- "Matthew"
 
-# Boolean (TRUE / FALSE)
+# Logical (TRUE / FALSE)
 is_raining <- FALSE
 has_umbrella <- TRUE
 
-# Boolean operations
+# Logical operations
 !is_raining
 is_raining & has_umbrella
 is_raining | has_umbrella
