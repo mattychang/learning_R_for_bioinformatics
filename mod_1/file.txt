@@ -1,0 +1,5 @@
+Name	Score	Passed
+Alice	92	TRUE
+Bob	75	TRUE
+Charlie	63	FALSE
+Dana	88	TRUE
