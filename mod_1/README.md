@@ -1,6 +1,7 @@
 # Module 1: Getting Started
 
-Goal 1: learn basic syntax, data types, and simple operations. \\
+Goal 1: learn basic syntax, data types, and simple operations. 
+
 Goal 2: get familiar with how to use RStudio
 
 ## Navigating RStudio
