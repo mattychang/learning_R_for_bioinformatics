@@ -50,7 +50,7 @@ This is where code runs.
 
 ### 4. How to Run Code
 
-- Press 'Ctrl/Cmd + Enter' to run each line in the Script Editor
+- Press `Ctrl/Cmd + Enter` to run each line in the Script Editor
 - Watch the results in the Console
 - Check created variables in the Environment tab
 
