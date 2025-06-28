@@ -10,3 +10,13 @@ This module introduces essential R packages for bioinformatics. Each submodule f
 | `02_tidyr_basics.R`          | `tidyr`     | Reshaping, tidying, and cleaning data |
 | `03_ggplot2_basics.R`        | `ggplot2`   | Building plots layer-by-layer        |
 | `04_pheatmap_intro.R`        | `pheatmap`  | Creating clustered heatmaps (matrix input) |
+
+## Example Datasets Used
+
+| Filename           | Description                                  |
+|--------------------|----------------------------------------------|
+| `student_info.csv` | Student-level data with GPA, age, and major  |
+| `students_na.csv`  | Same as above but includes missing values     |
+| `grades_wide.csv`  | Wide-format grades across multiple semesters |
+| `survey.csv`       | Survey responses including multiple-choice   |
+| `dates.csv`        | Dataset for working with date variables      |
