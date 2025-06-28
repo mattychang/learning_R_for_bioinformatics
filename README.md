@@ -50,9 +50,9 @@ This is where code runs.
 
 ### 4. How to Run Code
 
-- Press `Ctrl/Cmd + Enter` to run each line in the Script Editor
-- Watch the results in the Console
-- Check created variables in the Environment tab
+- Open any `.R` script from this repo
+- Place your cursor on a line and press `Ctrl/Cmd + Enter` to run it
+- Check the output in the Console and created objects in Environment
 
 ### 5. Installing and Loading Packages
 
