@@ -6,7 +6,7 @@ This module introduces the foundational building blocks of R programming. It dis
 
 ## Files
 
-| Script File                   | Focus Area                          |
+| Script File                   | Description                          |
 |-------------------------------|--------------------------------------|
 | `01_atomic_types.R`           | Basic data types (numeric, logical, character) and variables |
 | `02_vectors.R`                | Vectors: creation, indexing, naming, logical filtering        |
