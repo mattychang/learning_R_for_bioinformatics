@@ -13,7 +13,7 @@ This module introduces essential R packages for bioinformatics. Each submodule f
 
 ## Included Data
 
-| Filename           | Description                                  |
+| File name          | Description                                  |
 |--------------------|----------------------------------------------|
 | `student_info.csv` | Student-level data with GPA, age, and major  |
 | `students_na.csv`  | Same as above but includes missing values     |
