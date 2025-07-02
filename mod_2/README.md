@@ -2,9 +2,9 @@
 
 This module introduces essential R packages for bioinformatics. Each submodule focuses on one major package.
 
-## Covered Packages
+## Files
 
-| Submodule                     | Package     | Focus                                |
+| Submodule                    | Package     | Focus                                |
 |------------------------------|-------------|--------------------------------------|
 | `01_dplyr_basics.R`          | `dplyr`     | Filtering, transforming, summarizing |
 | `02_tidyr_basics.R`          | `tidyr`     | Reshaping, tidying, and cleaning data |
